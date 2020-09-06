@@ -1,0 +1,1 @@
+App that shows what blood type can be inherited, passed or received.
